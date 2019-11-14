@@ -1,0 +1,18 @@
+﻿  Cell.cpp
+  DemoScene.cpp
+c:\dev\2048demo\cocos2d\cocos\base/ccUTF8.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\Classes\DemoScene.cpp)
+c:\dev\2048demo\cocos2d\cocos\base/ccUTF8.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\Classes\Cell.cpp)
+c:\dev\2048demo\cocos2d\cocos\platform/CCSAXParser.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\Classes\Cell.cpp)
+c:\dev\2048demo\cocos2d\cocos\platform/CCSAXParser.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\Classes\DemoScene.cpp)
+..\Classes\DemoScene.cpp(30): warning C4996: 'cocos2d::Label::create': was declared deprecated
+  c:\dev\2048demo\cocos2d\cocos\2d/CCLabel.h(594): note: see declaration of 'cocos2d::Label::create'
+..\Classes\DemoScene.cpp(35): warning C4996: 'cocos2d::Label::create': was declared deprecated
+  c:\dev\2048demo\cocos2d\cocos\2d/CCLabel.h(594): note: see declaration of 'cocos2d::Label::create'
+     Creating library C:\Dev\2048Demo\proj.win32\Release.win32\2048Demo.lib and object C:\Dev\2048Demo\proj.win32\Release.win32\2048Demo.exp
+  Generating code
+  3 of 275 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  2048Demo.vcxproj -> C:\Dev\2048Demo\proj.win32\Release.win32\2048Demo.exe
+  0 File(s) copied
